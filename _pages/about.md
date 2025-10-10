@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ricardo Almeida | Research Associate in Theoretical Computer Science"
+title: "Ricardo Almeida --- Research Associate in Theoretical Computer Science"
 author_profile: true
 redirect_from: 
   - /about/
